@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--正常-->
+    <item android:drawable="@drawable/btn_play_back_normal" android:state_pressed="false" />
+    <!--按下-->
+    <item android:drawable="@drawable/btn_play_back_pressed" android:state_pressed="true" />
+    <!--失去焦点-->
+    <item android:drawable="@drawable/btn_play_back_unable" android:state_focused="false" />
+
+</selector>
