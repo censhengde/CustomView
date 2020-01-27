@@ -2,9 +2,11 @@
                                               
 
 一，	控件效果及组成各部分示意图：
+
 ![单手播放控件示意图](https://github.com/censhengde/CustomView/blob/master/images/单手播放控件示意图.png) 
 
 二，	控件主体架构设计UML示意图：
+
 ![单手播放控件示意图](https://github.com/censhengde/CustomView/blob/master/images/单手播放控件架构示意图.png) 
 
 架构简要说明：
